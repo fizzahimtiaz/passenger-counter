@@ -13,8 +13,8 @@ The Passenger Counter App is a web application designed to help you keep track o
 
 1. Clone this repository to your local machine:
 
-```shell
-git clone https://github.com/fizzahimtiaz/passenger-counter.git
+   ```shell
+   git clone https://github.com/fizzahimtiaz/passenger-counter.git
 
 2. Navigate to the project folder:
 
@@ -23,7 +23,7 @@ cd passenger-counter-app
 
 3. Open the `index.html` file in your web browser to use the app.
 
-##Deployment
+## Deployment
 
 To deploy the Passenger Counter App, upload the project directory to a web server or hosting service of your choice.
 
