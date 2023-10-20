@@ -23,7 +23,7 @@ cd passenger-counter-app
 
 3. Open the `index.html` file in your web browser to use the app.
 
-## Deployment
+##Deployment
 
 To deploy the Passenger Counter App, upload the project directory to a web server or hosting service of your choice.
 
